@@ -1,0 +1,6 @@
+{
+  "name": "Kiri-Zen",
+  "description": "Tactile 2D dojo slicing arcade game with exotic relics, power-ups, and multi-layered score multipliers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
